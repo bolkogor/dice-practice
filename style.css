@@ -1,0 +1,23 @@
+.container {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.row {
+}
+/*.cubik {*/
+/*    font-size: 2rem;*/
+/*    background-color: antiquewhite;*/
+/*    border-radius: 15px;*/
+/*    width: 200px;*/
+/*    height: 200px;*/
+/*    margin-left: 260px;*/
+/*    padding-top: 10px;*/
+/*}*/
+.cube-number {
+    font-size: 12rem;
+}
+.result {
+font-size: 3rem;
+    margin-top: 5%;
+}
